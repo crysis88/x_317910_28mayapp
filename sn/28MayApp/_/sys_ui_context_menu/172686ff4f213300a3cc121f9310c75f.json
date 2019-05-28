@@ -1,0 +1,38 @@
+{
+  "action_script": {
+    "____see": "sn/28MayApp/Context Menu/global/active_true/28May/action_script.js"
+  },
+  "active": true,
+  "comments": "",
+  "condition": "",
+  "do_not_cache": false,
+  "dynamic_actions_script": {
+    "____see": "sn/28MayApp/Context Menu/global/active_true/28May/dynamic_actions_script.js"
+  },
+  "menu": "list_header",
+  "name": "28May",
+  "on_show_script": {
+    "____see": "sn/28MayApp/Context Menu/global/active_true/28May/on_show_script.js"
+  },
+  "order": 1000,
+  "parent": "",
+  "run_on_show_script": false,
+  "sys_class_name": "sys_ui_context_menu",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-28 05:45:19",
+  "sys_domain": "global",
+  "sys_domain_path": "/",
+  "sys_id": "172686ff4f213300a3cc121f9310c75f",
+  "sys_mod_count": 0,
+  "sys_name": "28May",
+  "sys_overrides": "",
+  "sys_package": "29558a334f213300a3cc121f9310c7ec",
+  "sys_policy": "",
+  "sys_scope": "29558a334f213300a3cc121f9310c7ec",
+  "sys_update_name": "sys_ui_context_menu_172686ff4f213300a3cc121f9310c75f",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-28 05:45:19",
+  "table": "global",
+  "track_selected": false,
+  "type": "action"
+}
