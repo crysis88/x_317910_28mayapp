@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-05-28 05:52:59">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="28MayApp">29558a334f213300a3cc121f9310c7ec</application>
+<application_name>28MayApp</application_name>
+<application_scope>x_317910_28mayapp</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>28May</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>af57c6334f613300a3cc121f9310c722</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-05-28 05:52:58</sys_created_on>
+<sys_id>4508ce334f613300a3cc121f9310c71d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-05-28 05:52:58</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+</unload>
